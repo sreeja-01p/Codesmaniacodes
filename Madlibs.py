@@ -49,7 +49,6 @@ class StoryGenerator:
 main = Tk()
 main.geometry("250x250")
 main.title("MaD LiBs Theatre")
-main.wm_iconbitmap("Logo.ico")
 
 def inputScreen(topic):
     def redirect():
